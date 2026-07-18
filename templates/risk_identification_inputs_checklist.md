@@ -1,6 +1,6 @@
 # Risk Identification Inputs Checklist
 
-Use this checklist when preparing for a risk identification workshop or assessment. Mark which inputs are available for the scope under review.
+Use this checklist to gather the information that real organizations actually use when identifying risks for a major change initiative.
 
 ## 1. Business & Strategic Context
 - [ ] Current business objectives and strategic initiatives
@@ -38,10 +38,4 @@ Use this checklist when preparing for a risk identification workshop or assessme
 - [ ] Current control inventory relevant to the scope
 - [ ] Previous management review or risk committee minutes
 
----
-
-**How to use in the live lesson:**  
-Screen-share this checklist and mark which inputs are "available" in the Apex Financial Services case study. Then demonstrate how each available input generates specific risk statements.
-
-**Tip for real organizations:**  
-Do not wait for perfect information. Start with what you have and document assumptions and gaps in the Notes column of the Risk Register.
+**How to use in a live session:** Screen-share this checklist and mark which inputs are available in the Apex case study, then demonstrate how each input helps generate specific risk statements.
